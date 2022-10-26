@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alweece
+- 👋 Hey, I’m @Alweece
 
 
 <!---
